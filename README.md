@@ -6,7 +6,6 @@
         implementation 'com.amazonaws:aws-java-sdk-s3'
 
         AWS Credentials
-        //Some Random number for Git upload
         //login to --> aws.amazon.com -->profile-->security credentials
         -->access keys-->create new access key and download the key
         
