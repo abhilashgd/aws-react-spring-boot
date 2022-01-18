@@ -23,6 +23,11 @@
         profile-->UserProfileService
         profile-->UserProfileController
 
+        //added git ignore to ignore config files
+        gitignore refs--> https://git-scm.com/docs/gitignore
+
+        //Run The application
+        BROWSER: http://localhost:8080/api/v1/user-profile //should display fake in memory DB users
 
 
 
