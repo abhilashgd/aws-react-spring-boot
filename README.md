@@ -6,12 +6,23 @@
         implementation 'com.amazonaws:aws-java-sdk-s3'
 
         AWS Credentials
+        //Some Random number for Git upload
         //login to --> aws.amazon.com -->profile-->security credentials
         -->access keys-->create new access key and download the key
         
         //Amazon s3 client
         goto-->services-->s3-->create new bucket-->
         abhilashgd-image-upload-123 --> create bucket
+
+        //USER PROFILE CREATION and in - Memory database creation
+        profile-->UserProfile.java
+        datastore-->FakeUserProfileDataStore.java
+
+        //API and Service Layers
+        profile-->UserProfileDataAccessService
+        profile-->UserProfileService
+        profile-->UserProfileController
+
 
 
 
