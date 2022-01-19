@@ -27,8 +27,20 @@
 
         //Run The application
         BROWSER: http://localhost:8080/api/v1/user-profile //should display fake in memory DB users
+        
+        // upload user profile image
+        // 1. check if image is not empty
+        // 2. check if file is an image 
+        // 3. check if user exists in our database
+        // 4. Grab some metadata from file if any 
+        // 5. Store the image in s3 and upate databse with s3 image link
 
-
-
+# CREATING REACT APP
+        
+        https://github.com/facebook/create-react-app
+        //Commands
+        % npx create-react-app frontend //to create facebook react app
+        
+        
         
 

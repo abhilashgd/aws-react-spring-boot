@@ -1,4 +1,4 @@
 src/main/java/com/abhilashgd/awsreactspringboot/config/AmazonConfig.java
 build/classes/java/main/com/abhilashgd/awsreactspringboot/config/AmazonConfig.class
-.gitignore
+/Users/abhilashgd/Documents/for_git_push/aws-react-spring-boot-app/frontend/node_modules
 .gradle/*
