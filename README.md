@@ -41,6 +41,20 @@
         //Commands
         % npx create-react-app frontend //to create facebook react app
         
-        
-        
+        % cd frontend
+        % npm start
+                > frontend@0.1.0 start
+                > react-scripts start
+                Starting the development server...
 
+        Ref--> https://reactjs.org/
+        
+        //VS CODE frontend editing
+        % code . //inside frontend folder
+    
+        //components and axios
+        % npm -S i axios //to install axios
+        % npm start
+        http://localhost:3001/  //as something else was running on 300 it startef on 3001 port
+        
+        inspect --> console
